@@ -1,0 +1,10 @@
+C:\Nikolay 11d\TreesZaimovNikolay\TreesZaimovNikolay\bin\Debug\TreesZaimovNikolay.exe.config
+C:\Nikolay 11d\TreesZaimovNikolay\TreesZaimovNikolay\bin\Debug\TreesZaimovNikolay.exe
+C:\Nikolay 11d\TreesZaimovNikolay\TreesZaimovNikolay\bin\Debug\TreesZaimovNikolay.pdb
+C:\Nikolay 11d\TreesZaimovNikolay\TreesZaimovNikolay\obj\Debug\Trees.csproj.AssemblyReference.cache
+C:\Nikolay 11d\TreesZaimovNikolay\TreesZaimovNikolay\obj\Debug\TreesZaimovNikolay.Form1.resources
+C:\Nikolay 11d\TreesZaimovNikolay\TreesZaimovNikolay\obj\Debug\TreesZaimovNikolay.Properties.Resources.resources
+C:\Nikolay 11d\TreesZaimovNikolay\TreesZaimovNikolay\obj\Debug\Trees.csproj.GenerateResource.cache
+C:\Nikolay 11d\TreesZaimovNikolay\TreesZaimovNikolay\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Nikolay 11d\TreesZaimovNikolay\TreesZaimovNikolay\obj\Debug\TreesZaimovNikolay.exe
+C:\Nikolay 11d\TreesZaimovNikolay\TreesZaimovNikolay\obj\Debug\TreesZaimovNikolay.pdb
